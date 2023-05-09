@@ -9,6 +9,7 @@ enum Constant
 {
     enum API {
         
+        
         static let appIds = "e2c825a7602417faf1234265f3f8dc6b"
         static let weatherURL = "https://api.openweathermap.org/data/2.5/weather?"
         static let iconURL = "https://openweathermap.org/img/wn/"
